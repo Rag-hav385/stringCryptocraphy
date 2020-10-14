@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=CeaserBreaker
+comment0.text=\r\n\ Write\ a\ description\ of\ CeaserBreaker\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=message
+comment1.target=int[]\ CountLetters(java.lang.String)
+comment2.params=encrypt
+comment2.target=java.lang.String\ decrypt(java.lang.String)
+comment3.params=val
+comment3.target=int\ maxIndex(int[])
+comment4.params=
+comment4.target=void\ TestDecrypt()
+comment5.params=message\ start
+comment5.target=java.lang.String\ getHalfString(java.lang.String,\ int)
+comment6.params=encrypt
+comment6.target=int\ getKey(java.lang.String)
+comment7.params=encrypt
+comment7.target=java.lang.String\ decryptTwoKeys(java.lang.String)
+comment8.params=
+comment8.target=void\ testDecryptTwoKeys()
+numComments=9
